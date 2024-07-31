@@ -10,7 +10,8 @@ async function bootstrap() {
       'http://localhost:3000',
       'https://localhost:3000',
       'https://cdp-frontned-t.web.app',
-      'https://cdp-frontned-t.web.app/pages'
+      'https://cdp-frontned-t.web.app/pages',
+      'https://cdp-frontend-service-login.web.app/'
     ],
     credentials: true,
     allowedHeaders: ['Content-Type', 'Authorization'],
